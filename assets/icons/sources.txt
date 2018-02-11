@@ -1,0 +1,5 @@
+Icons: Twitter, LinkedIn, Xing, GitHub
+Icons made by Freepik from www.flaticon.com (licensed by CC 3.0 BY)
+
+Codepen Icon:
+directly from codepen
