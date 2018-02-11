@@ -1,4 +1,5 @@
-Landing page for my domain. This site will be online as long as the actual portfolio is still a WIP.
+
+This landing page is created to act as a placeholder as long as my Portfolio is still a work in progress.
 
 It is a simple site based on HTML5 & CSS3 and includes links to relevant online profiles.
 
