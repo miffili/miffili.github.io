@@ -18,7 +18,7 @@ html{
 body {
   width: 100vW;
   height: 100vH;
-  background-color: #FFF;
+  background-color: rgb(30, 29, 29);
   background-image: url("assets/background/bg-mobile.jpg");
   background-position: top;
   background-size: 100%;
