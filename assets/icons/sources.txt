@@ -1,4 +1,4 @@
-Icons: Twitter, LinkedIn, Xing, GitHub
+Icons: Twitter, LinkedIn, GitHub
 Icons made by Freepik from www.flaticon.com (licensed by CC 3.0 BY)
 
 Codepen Icon:
